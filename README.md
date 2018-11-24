@@ -1,4 +1,4 @@
-# CCC-2017-SumGame
+# CCC-2017-SumGame (S1)
 
 Problem URL:
     https://dmoj.ca/problem/ccc17s1
